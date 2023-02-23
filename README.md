@@ -70,13 +70,6 @@
   </a>
 </p>
 
----
-
-<details>
-    <summary>
-      &#127942 <b>GitHub Awards</b>
-    </summary><br/>
-
  ### 📚 Languages:
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
