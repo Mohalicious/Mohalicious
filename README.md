@@ -98,7 +98,7 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/spiderx11?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=KenyaStandardTime%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Mohalicious?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=KenyaStandardTime%2FIstanbul)
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Mohalicious&theme=highcontrast&repo=Kakashi)](https://github.com/Mohalicious/Kakashi)
 
