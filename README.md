@@ -1,4 +1,3 @@
-
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
@@ -13,25 +12,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/spiderx11/spiderx11.git">
-    <img src="https://komarev.com/ghpvc/?username=spiderx11&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
+  <a href="https://github.com/Mohalicious/Mohalicious.git">
+    <img src="https://komarev.com/ghpvc/?username=Mohalicious&label=Profile%20views&color=ff69b4&label=Profile+Views&style=flat">
 
   </a>
   <a href="https://github.com/spiderx11?tab=stars">
-    <img src="https://img.shields.io/github/stars/spiderx11?color=ff69b4&label=Stargazers&style=flat">
+    <img src="https://img.shields.io/github/stars/Mohalicious?color=ff69b4&label=Stargazers&style=flat">
 
   </a>
 
   <a href="https://github.com/https://github.com/spiderx11?tab=followers">
-    <img src="https://img.shields.io/github/followers/spiderx11?color=ff69b4&label=Followers&style=flat">
+    <img src="https://img.shields.io/github/followers/Mohalicious?color=ff69b4&label=Followers&style=flat">
 
 ## 🙂 About Me:
 
-- 🌠 ![Age](https://img.shields.io/badge/age-20-green)
+- 🌠 ![Age](https://img.shields.io/badge/age-19-green)
 
 - 🎋 Just trying ^_^
 
-- 🏗 I'm currently working with [`🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃.`](https://github.com/spiderx11/sp...e)
+- 🏗 I'm currently working with [`🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃.`](https://github.com/Mohalicious/Spike)
 
 - 🚀 In love with WhatsApp bots.
 
@@ -56,12 +55,12 @@
 
 
 <a href="https://github.com/Shubhamrawat5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderx11&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohalicious&theme=dark" />
 </a>
      
 ## Top repo: 
-  <a href="https://github.com/spiderx11/spiket">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spiderx11&repo=Kakashi&theme=dark" />
+  <a href="https://github.com/Mohalicious/Kakashi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohalicious&repo=Kakashi&theme=dark" />
 </a>
   
 ## 🎵 Playlist:
@@ -72,22 +71,22 @@
       
 ## 📊 Github Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiderx11&show_icons=true&theme=highcontrast" alt="spiderx11" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohalicious&show_icons=true&theme=highcontrast" alt="Mohalicious" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiderx11&theme=highcontrast" alt="spiderx11" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohalicious&theme=highcontrast" alt="Mohalicious" /></p>
 </details>
 
 ---
 <h3 align="left">📬Contact Me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/__texas_finest/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="spiderx11" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/spiderx11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="spiderx11" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__texas_finest/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mohalicious" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/spiderx11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Mohalicious" height="30" width="40" /></a>
 </p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=spiderx11)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Mohalicious)
 
 </details>
 
@@ -96,7 +95,7 @@
 
 ![Metrics](https://metrics.lecoq.io/spiderx11?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=KenyaStandardTime%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=spiderx11&theme=highcontrast&repo=spike)](https://github.com/spiderx11/spike)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Mohalicious&theme=highcontrast&repo=Kakashi)](https://github.com/Mohalicious/Kakashi)
 
 </details>
 ## 🔰 Dev Quote:
