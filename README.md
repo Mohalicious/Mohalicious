@@ -92,7 +92,7 @@
 
 <p align="left">
   <a href="https://github.com/Mohalicious/Kakashi"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohalicious&repo=Kakashi&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="Mohalicious"></a>
-  <a href="https://github.com/Mohalicious/QueenZellie"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SinhalayaCreator&repo=QueenZellie&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="wa.exe"></a>
+  <a href="https://github.com/Mohalicious/Queen-Zellie"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohalicious&repo=Queen-Zellie&theme=highcontrast&bg_color=1F222E&title_color=CEFF00&icon_color=F8D866&hide_border=true&show_icons=true" alt="wa.exe"></a>
 
 </p>
 <p align="left">
@@ -113,11 +113,6 @@
 </details>
 
 ---
-<h3 align="left">📬Contact Me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/__texas_finest/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mohalicious" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/spiderx11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="Mohalicious" height="30" width="40" /></a>
-</p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
