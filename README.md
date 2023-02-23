@@ -40,6 +40,43 @@
 
 - 👑 Founder of `🍃𝐒𝐩𝐢𝐤𝐞-𝐀𝐢🍃`
 
+### 🍃 How to Reach Me
+
+<p>
+  <a href="https://instagram.com/__texas_finest">
+    <code>
+      <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">
+    </code>
+  </a> 
+  <a href="https://facebook.com/texasfinnest">
+    <code>
+      <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg">
+    </code>
+  </a> 
+  <a href="wa.me/+522464800112">
+    <code>
+      <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg">
+    </code>
+  </a> 
+  <a href="t.me/mohaalicious">
+    <code>
+      <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg">
+    </code>
+  </a> 
+  <a href="https://www.snapchat.com/add/mohalicious23">
+    <code>
+      <img width="30px" src="https://www.vectorlogo.zone/logos/snapchat/snapchat-tile.svg">
+    </code>
+  </a>
+</p>
+
+---
+
+<details>
+    <summary>
+      &#127942 <b>GitHub Awards</b>
+    </summary><br/>
+
  ### 📚 Languages:
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
