@@ -53,7 +53,7 @@
       <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg">
     </code>
   </a> 
-  <a href="https://wa.me/5212464800112?text=Whats%20up%20%F0%9F%97%BF">
+  <a href="https://wa.me/254769527061?text=Whats%20up%20%F0%9F%97%BF">
     <code>
       <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg">
     </code>
